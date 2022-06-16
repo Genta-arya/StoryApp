@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.177" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.1205" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1205" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.1205" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1205" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.177" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_add.xml" value="0.26811594202898553" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_camera.xml" value="0.2604166666666667" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_main.xml" value="0.2667572463768116" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_maps.xml" value="0.27447916666666666" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/activity_welcome.xml" value="0.1334853090172239" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/item.xml" value="0.4" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/layout/item_loading.xml" value="0.27447916666666666" />
+        <entry key="..\:/Project/Android_Studio-Kotlin/StoryApp/app/src/main/res/menu/nav_bar.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

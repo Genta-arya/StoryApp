@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Silahkan Login!</string>
+    <string name="title_welcome_page">Selamat datang di Story App Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2021 Genta-Dinus</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="fail">Register gagal , Email telah di gunakan</string>
+    <string name="password_min">password kurang dari 6 karakter</string>
+    <string name="name_error">Masukan Nama</string>
+    <string name="password_error">Masukan Password</string>
+    <string name="mail_error">Masukan Email</string>
+    <string name="email_min">Email Tidak Sesuai</string>
+    <string name="fail_login">Username atau Password salah</string>
+    <string name="post">post value</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="date">created</string>
+    <string name="camera_x">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="upload">unggah</string>
+    <string name="deskripsi_story">Deskripsi....</string>
+    <string name="maps">Map</string>
+    <string name="location">Lokasi saya</string>
+    <string name="ulang">coba lagi</string>
+
+</resources>
+
+
+
+
